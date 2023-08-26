@@ -7,6 +7,6 @@ class add2
         b=4;
         c=2;
         d=a+b+c;
-        System.out.println(d)
+        System.out.println(d);
     }
 }
